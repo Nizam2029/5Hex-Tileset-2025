@@ -1,4 +1,4 @@
-# 5Hex V1.5
+# 5Hex 2025 V1.0.2
 A MASSIVE tileset Unciv mod.
 
 5Hex is a tileset/retexture mod which adds new tileset images - including missing stuff from the expansions. This tileset should be relatively future proof.
